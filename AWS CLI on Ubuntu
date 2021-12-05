@@ -1,36 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@deshmukhmr91
-aasemquazi /
-MyCloud
-Public
-
-2
-11
-
-    14
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-MyCloud/AWS CLI on Ubuntu
-@aasemquazi
-aasemquazi Update AWS CLI on Ubuntu
-Latest commit 6495ce0 on Jan 18, 2017
-History
-1 contributor
-51 lines (32 sloc) 829 Bytes
 Check your Python installation:
 
 $ python --version
@@ -82,18 +49,3 @@ Delete credentials
 $ rm -rf credentials
 
 Terminate the instance
-
-    © 2021 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
